@@ -1,5 +1,23 @@
+# Maven build folder (contains compiled .class files and reports)
 /target/
-.classpath
-.project
-.settings/
-.factorypath
+
+# TestNG generated output and emailable reports
+/test-output/
+emailable-report.html
+
+# Log files
+*.log
+/logs/
+
+# Eclipse IDE specific files and metadata
+/.classpath
+/.project
+/.factorypath
+/.settings/
+
+# Exclude sensitive configuration files containing real tokens/passwords
+src/test/resources/config.properties
+
+# OS system files
+.DS_Store
+Thumbs.db
