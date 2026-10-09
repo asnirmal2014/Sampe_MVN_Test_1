@@ -1,8 +1,5 @@
-The new information was updated by the developer.
-The new update was done by the developer.
-The new update was done by the programmer.
 This update was done by the developer.
 This line is totally new and it was updated by the developer.
 This is a fresh update done by the developer.
 This is the latest update done by the developer.
-
+This is the latest update done by the programmer.
